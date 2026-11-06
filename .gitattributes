@@ -1,0 +1,6 @@
+# Preserve the original skill bytes for manifest verification on every platform.
+manifest.json text eol=lf
+*.py text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
+skills/** -text

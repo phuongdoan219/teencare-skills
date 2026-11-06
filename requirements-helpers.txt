@@ -1,0 +1,2 @@
+# Only needed for extract_brief.py; installer uses the Python standard library.
+openpyxl>=3.1,<4

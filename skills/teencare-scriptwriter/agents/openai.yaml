@@ -1,0 +1,4 @@
+interface:
+  display_name: "Viết kịch bản TeenCare"
+  short_description: "Kịch bản TeenCare với CTA nhắn tin Messenger"
+  default_prompt: "Dùng $teencare-scriptwriter viết kịch bản TeenCare theo brief của tôi, kết bằng CTA nhắn tin cho TeenCare."

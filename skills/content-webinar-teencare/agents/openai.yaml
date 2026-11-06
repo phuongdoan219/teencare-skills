@@ -1,0 +1,4 @@
+interface:
+  display_name: "Content Webinar TeenCare"
+  short_description: "Ảnh, kịch bản, caption và video webinar TeenCare"
+  default_prompt: "Dùng $content-webinar-teencare để làm nội dung webinar TeenCare theo brief hiện tại."

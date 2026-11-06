@@ -1,0 +1,112 @@
+[
+  {
+    "code": "TC-T01",
+    "name": "Thẻ trắng + tick xanh",
+    "kind": "text",
+    "reference": "TC-T01.png",
+    "width": 392,
+    "height": 73,
+    "notes": "Nền trắng bo góc, chữ đen; từ/số chính màu đỏ, tick xanh. Dùng cho lợi ích, xác nhận; không sao chép giá trong ảnh.",
+    "source": "User attachment, 2026-10-13",
+    "sha256": "850de8cfcb154d39b63479f054f0787d3258a0059566055c90fc9b49d2b07cea"
+  },
+  {
+    "code": "TC-T02",
+    "name": "Sticker xanh mint",
+    "kind": "text",
+    "reference": "TC-T02.png",
+    "width": 394,
+    "height": 81,
+    "notes": "Chữ xanh mint, viền đen trong, viền trắng dày ngoài, glow mint. Dùng cho thông báo ngắn.",
+    "source": "User attachment, 2026-10-13",
+    "sha256": "2c5058e08286386da1e29b1a9869e9f6dad7786e90fecf69de087350235b2c22"
+  },
+  {
+    "code": "TC-T03",
+    "name": "Box đen viền trắng",
+    "kind": "text",
+    "reference": "TC-T03.png",
+    "width": 437,
+    "height": 151,
+    "notes": "Chữ vàng sáng trên box đen bo góc, viền trắng. Hai dòng gọn; dùng khi brief chọn mẫu này.",
+    "source": "User attachment, 2026-10-13",
+    "sha256": "7e02b7b196125ba72c225a681d84fdb54b75f33f1431d90b7488523e79044b0b"
+  },
+  {
+    "code": "TC-T04",
+    "name": "CTA đỏ + tay chỉ",
+    "kind": "text",
+    "reference": "TC-T04.png",
+    "width": 436,
+    "height": 153,
+    "notes": "Box đỏ viền đen, chữ trắng condensed đậm; tay chỉ nhẹ. Dùng cho CTA.",
+    "source": "User attachment, 2026-10-13",
+    "sha256": "607e8ff3bdfc42a7327a8b3cbef70600825dbf0c4402ee440339fe42c7155071"
+  },
+  {
+    "code": "TC-T05",
+    "name": "Chữ vàng ba lớp viền",
+    "kind": "text",
+    "reference": "TC-T05.png",
+    "width": 388,
+    "height": 130,
+    "notes": "Chữ vàng đậm, viền đen dày, trắng ngoài, glow vàng nhẹ. Dùng cho hook, số và keyword lớn, không có nền box.",
+    "source": "User attachment, 2026-10-13",
+    "sha256": "0ebeb9e2b169adf10d53082ae2d7af65f4a908cba53bd52f151ca108ff276060"
+  },
+  {
+    "code": "TC-T06",
+    "name": "Hai tầng vàng–đỏ",
+    "kind": "text",
+    "reference": "TC-T06.png",
+    "width": 451,
+    "height": 114,
+    "notes": "Dòng chính vàng/viền đen/trắng, dòng phụ đỏ nghiêng/viền trắng. Hai tầng là một cụm, không thêm hai box.",
+    "source": "User attachment, 2026-10-13",
+    "sha256": "b3b1b8c7a1b0dcd6231c5563a2ff4490a18f3754c13f9a444901c88e29250094"
+  },
+  {
+    "code": "TC-T07",
+    "name": "Chữ trắng glow vàng",
+    "kind": "text",
+    "reference": "TC-T07.png",
+    "width": 371,
+    "height": 58,
+    "notes": "Chữ trắng, viền đen và halo vàng; gọn một dòng, dùng cho cam kết có trong nội dung.",
+    "source": "User attachment, 2026-10-13",
+    "sha256": "16d975f2fe36c8c74c48bd7ffe4f672e73b1f19c695ecc95d05ff34a150b1dd9"
+  },
+  {
+    "code": "TC-T08",
+    "name": "Dải đỏ kẹp hai đường trắng",
+    "kind": "text",
+    "reference": "TC-T08.png",
+    "width": 440,
+    "height": 92,
+    "notes": "Nền đỏ chữ trắng đậm, đường trắng mảnh phía trên/dưới. Dải ôm nội dung, xuất hiện theo ý; không giữ như footer.",
+    "source": "User attachment, 2026-10-13",
+    "sha256": "d98a1c14b8e620e02285b2e1ae1bad5cf710c81c414dfc35f4524508e84f4ecc"
+  },
+  {
+    "code": "TC-FX01",
+    "name": "Cảnh báo halo đỏ/vàng",
+    "kind": "overlay",
+    "reference": "TC-FX01.png",
+    "width": 390,
+    "height": 305,
+    "notes": "Overlay icon cảnh báo, không phải mẫu chữ. Nhấp nhẹ một lần; giữ mặt nhìn được, không hàm ý chẩn đoán nhân vật.",
+    "source": "User attachment, 2026-10-13",
+    "sha256": "65a7f0ea14b64b473faae09048d6037bd4ae27064dd6ad54f5f6ccd87dc0024e"
+  },
+  {
+    "code": "TC-T09",
+    "name": "Tick xanh + chữ vàng nghiêng",
+    "kind": "text",
+    "reference": "TC-T09.png",
+    "width": 437,
+    "height": 110,
+    "notes": "Tick xanh, chữ vàng đậm hơi nghiêng với viền đen/trắng. Dùng cho hành động hoặc lợi ích.",
+    "source": "User attachment, 2026-10-13",
+    "sha256": "8c6452d68d9279d3562a913849845dd31c24052fa7acf70958f93747d05f82f1"
+  }
+]

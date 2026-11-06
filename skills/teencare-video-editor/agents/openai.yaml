@@ -1,0 +1,4 @@
+interface:
+  display_name: "Dựng video TeenCare"
+  short_description: "Dựng video TeenCare, upload Drive và cập nhật content ads"
+  default_prompt: "Dùng $teencare-video-editor để dựng, chỉnh video TeenCare hoặc bàn giao video lên Drive và cập nhật bảng content ads theo yêu cầu của tôi."
